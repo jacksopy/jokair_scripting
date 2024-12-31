@@ -56,7 +56,7 @@ echo "/   1   /    2    /  3   /    4   /    5   /             6          /     
 echo "+-------+---------+------+--------+--------+------------------------+-----------+"
 echo "choose a tool" 
 read tool_choice
-if [ $tool_choice = 1] ; then
+if [ $tool_choice = 1 ] ; then
     echo "nmap"
     echo"ip adress"
     read ip_adress
