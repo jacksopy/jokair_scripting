@@ -1,5 +1,7 @@
 # jokair_scripting
 script to make the usage from differente tool easy
+
+# tested on
 work on linux
 tested on kali linux (need hydra, metasploit, sqlmap, john, nmap, gobuster)
 ## Installation
