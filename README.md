@@ -1,7 +1,8 @@
 # jokair_scripting
 script to make the usage from differente tool easy
+work on linux
+tested on kali linux (need hydra
 ## Installation
-
 1. Clonez the repository :
    ```bash
    git clone https://github.com/jacksopy/jokair_scripting.git
